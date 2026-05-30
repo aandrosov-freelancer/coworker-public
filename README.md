@@ -1,8 +1,7 @@
 # Информационная система автоматического подбора исполнителей-фрилансеров с помощью ИИ
 
 ## 🎥 Видео-демонстрация проекта
-[![Смотреть видео](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/107mu_i0J_dQjz8f3jWIQn9QzQQEpEO8i/preview)
-
+[Смотреть Видео](https://drive.google.com/file/d/107mu_i0J_dQjz8f3jWIQn9QzQQEpEO8i/preview)
 
 ---
 
