@@ -1,0 +1,1 @@
+select count(*) from profiles where id = auth.uid() and role = 'customer' LIMIT 1;

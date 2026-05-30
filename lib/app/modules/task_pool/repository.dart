@@ -1,0 +1,3 @@
+class TaskPoolRepository {
+  TaskPoolRepository();
+}
